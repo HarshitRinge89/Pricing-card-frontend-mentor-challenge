@@ -1,0 +1,85 @@
+html{
+  box-sizing:border-box;
+  font-family:karla;
+  font-size:16px;
+}
+body{
+  font-family: Karla;
+  padding:0px;
+}
+h2,h4,p{
+  margin:5px;
+}
+#title{
+  color:#2ebfbd;
+}
+#card {
+  width:600px;
+  height:350px;
+  box-shadow:2px 3px 7px 0px rgba(0,0,0,0.35);
+  border-radius:5px;
+  overflow:hidden;
+}
+#x{
+  color:#c0df34;
+}
+#top{
+  color:#98a6bd;
+  padding:15px;
+  width:100%;
+  height:45;
+}
+#bottom{
+  color: white;
+  width:100%;
+  height:55%;
+  display:flex;
+}
+#bottom-left{
+  padding:15px;
+  background-color:#2ab2af;
+  width:50%;
+  height:100%;
+  margin-bottom:20px;
+  line-height:30px;
+}
+#bottom-right{
+  padding:20px;
+  background-color:#2ebfbd;
+  width:50%;
+  height:100%;
+}
+button{
+  color:white;
+  background-color:#c0df34;
+  border:none;
+  padding:10px;
+  border-radius:5px;
+  width:100%;
+}
+button:hover{
+  cursor:pointer;
+  background-color:#A9c42d;
+  transform:scale(1.02);
+}
+#price{
+  display:inline-block;
+  font-weight:700;
+  font-size:1.4rem;
+}
+#freq{
+  position:relative;
+  top:-3px;
+  font-size:0.8rem;
+  opacity:0.7;
+  display:inline-block;
+}
+#bottom-left p{
+  font-size:0.8rem;
+  margin-bottom:40px;
+}
+ul{
+  padding:0;
+  list-style:none;
+  font-size:0.9rem;
+}
