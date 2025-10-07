@@ -1,2 +1,2 @@
-# Fire-Breathing-Penguin-Pricing-card-frontend-mentor-challenge
-Only works on Desktop
+# Pricing-card-frontend-mentor-challenge
+A Pricing card CSS Challenge that works on both mobile and desktop
